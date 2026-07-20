@@ -1,0 +1,4 @@
+interface:
+  display_name: "Find Higher-Resolution Image"
+  short_description: "Use Google Lens, verify, and replace images safely"
+  default_prompt: "Use $find-higher-res-image with Google Lens to find a higher-resolution version of this image and replace it safely."
